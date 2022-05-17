@@ -188,15 +188,3 @@
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudurrahmanlabib&show_icons=true&theme=blueberry&locale=en&layout=compact"
-    alt="mahmudurrahmanlabib"
-  />
-</p>
-
-![Labib's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=mahmudurrahmanlabib&show_icons=true&theme=blueberry)
