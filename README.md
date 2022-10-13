@@ -7,7 +7,7 @@
   />
 </p>
 
-- 🔭 I’m currently working on **XynosLab**
+- 🔭 I’m currently working at **XynosLab**
 
 - 🌱 I’m currently learning **React JS**
 
