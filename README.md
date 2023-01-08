@@ -29,7 +29,7 @@
   <a href="https://t.me/mahmudurrahmanlabib" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+      src="https://drive.google.com/uc?export=view&id=1v0uM48HXdqlRVRtbk5eLM_CDDC0ZZOm0"
       alt="mahmudurrahmanlabib"
       height="30"
       width="40"
