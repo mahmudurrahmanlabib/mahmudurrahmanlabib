@@ -26,6 +26,14 @@
       height="30"
       width="40"
   /></a>
+  <a href="https://t.me/mahmudurrahmanlabib" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+      alt="mahmudurrahmanlabib"
+      height="30"
+      width="40"
+  /></a>
   <a href="https://linkedin.com/in/mahmudurrahmanlabib" target="blank"
     ><img
       align="center"
