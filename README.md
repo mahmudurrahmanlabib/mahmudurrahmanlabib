@@ -26,14 +26,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://t.me/mahmudurrahmanlabib" target="blank"
-    ><img
-      align="center"
-      src="https://drive.google.com/uc?export=view&id=1v0uM48HXdqlRVRtbk5eLM_CDDC0ZZOm0"
-      alt="mahmudurrahmanlabib"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/mahmudurrahmanlabib" target="blank"
     ><img
       align="center"
@@ -47,22 +39,6 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="17504862"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://twitter.com/labibrahman000" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="labibrahman000"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/labibrahman000" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="labibrahman000"
       height="30"
       width="40"
   /></a>
