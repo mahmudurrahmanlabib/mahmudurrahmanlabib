@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudurrahmanlabib&show_icons=true&locale=en&layout=compact" alt="mahmudurrahmanlabib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudurrahmanlabib&show_icons=true&locale=en" alt="mahmudurrahmanlabib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudurrahmanlabib&" alt="mahmudurrahmanlabib" /></p>
