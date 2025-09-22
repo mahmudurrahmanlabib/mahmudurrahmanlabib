@@ -32,7 +32,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Build With</h2>
 
 ###
 
@@ -62,7 +62,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 
 ###
 
-<h2 align="left">My toolkit</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
@@ -104,7 +104,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 
 ###
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">Find Me On</h2>
 
 ###
 
