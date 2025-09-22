@@ -109,7 +109,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 ###
 
 <div align="left">
-  <a href="https://instagram/mahmudurrahmanlabib" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://instagram.com/mahmudurrahmanlabib" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="linkedin logo" /></a>
     <a href="https://linkedin.com/in/mahmudurlabib" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="https://twitter.com/mahmudurlabib" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
   <a href="https://t.me/MahmudurRahmanLabib" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /></a>
