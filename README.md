@@ -15,7 +15,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 
 - **WordPress Engineering** → Hosting, Themes, plugins, multisite & troubleshooting  
 - **DevSecOps Practices** → CI/CD, automation, monitoring, and security integration  
-- **Systems & Infrastructure** → Dockerized environments, Linux administration, Nginx optimization  
+- **Systems & Infrastructure** → Dockerized environments, Linux administration, Nginx & Caddy optimization  
 - **Data & Performance** → MySQL, MongoDB, Redis tuning for speed and reliability  
 - **Currently Learning** → Kubernetes (k3s) to orchestrate scalable containerized environments  
 
@@ -28,7 +28,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 - Collaborating on **WordPress, DevOps, or security-focused open-source projects**  
 - Contributing to **Technical Support & Engineering roles** where customer success comes first  
 - Enhancing **automation workflows and secure deployment pipelines**  
-- Sharing knowledge through writing, mentorship, and community contributions  
+- Sharing knowledge through writing, content, and community contributions  
 
 ###
 
