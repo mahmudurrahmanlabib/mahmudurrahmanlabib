@@ -116,11 +116,3 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmudurrahmanlabib/mahmudurrahmanlabib/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmudurrahmanlabib/mahmudurrahmanlabib/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahmudurrahmanlabib/mahmudurrahmanlabib/output/pacman-contribution-graph.svg">
-</picture>
-
-###
