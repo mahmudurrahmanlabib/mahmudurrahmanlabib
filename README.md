@@ -13,7 +13,7 @@ With hands-on experience in <b>WordPress, PHP, Linux, Docker, and Cloud platform
 
 ###
 
-- **WordPress Engineering** → Themes, plugins, multisite & troubleshooting  
+- **WordPress Engineering** → Hosting, Themes, plugins, multisite & troubleshooting  
 - **DevSecOps Practices** → CI/CD, automation, monitoring, and security integration  
 - **Systems & Infrastructure** → Dockerized environments, Linux administration, Nginx optimization  
 - **Data & Performance** → MySQL, MongoDB, Redis tuning for speed and reliability  
